@@ -1,0 +1,1 @@
+console.log("Hello, my name is kruthik i am attending React js class form past a week in the instuite called xwrokz-obc and i am enjoying the class very much and learning new things every day");
